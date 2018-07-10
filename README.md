@@ -1,6 +1,6 @@
 Sebastian Cojocariu 321CB UPB ACS					
   
-			                          	Real-Time-Filter-Content
+			                         Real-Time-Filter-Content
 
 Idee (schita):
 -vom folosi Visitor Design Pattern pentru a interpreta o expresie booleana data in prefix(ca in tema,insa algoritmul prezentat merge si
